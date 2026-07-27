@@ -1,5 +1,5 @@
 const CONFIG = {
-  password: "27-01",
+  password: "2701",
 
   heroTitle: "❤️ Welcome Tahamu ❤️",
 
@@ -17,11 +17,11 @@ I Love You Esha . 💖`,
 
   relationshipDate: "2024-02-09",
 
-  music: "assets/music/love.mp3",
+  music: "love.mp3",
 
   photos: [
-    "assets/photos/1.jpg",
-    "assets/photos/2.jpg",
-    "assets/photos/3.jpg"
-  ]
+  "1.jpg",
+  "2.jpg",
+  "3.jpg"
+]
 };
